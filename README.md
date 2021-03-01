@@ -35,7 +35,7 @@
 
 ``F(1) = 1`
  `F(2) = 2`
- F(n) = 2 * F(n-1) + 3 * F(n-2)`
+ `F(n) = 2 * F(n-1) + 3 * F(n-2)``
 
 <u>14.Escreva uma função recursiva que busque um elemento N, pedido pelo usuário em um array de tamanho 300 de números inteiros, a função deve retornar a posição do elemento. Obs. Se o elemento se repetir, retorne a posição da primeira ocorrência.</u>
 
